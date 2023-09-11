@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-img{
+    height: 90px;
+    width: 60px;
+
+}
+.nav-bar-styling{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.banner-section-bg{
+background: url("https://bhargavkumar1612.pythonanywhere.com/media/portfolio/images/foodmunch-banner-bg.png");
+height: 100vh;
+background-size: cover;
+
+}
+
+
+.banner-section-content{
+color: white;
+
+}
+.view-menu{
+    border: 2px solid yellow;
+    color: white;
+    border:none;
+    margin-right: 5px;
+    border-radius: 8px;
+    background-color: rgb(178, 178, 39);
+    padding: 5px;
+
+}
+.order-now{
+    background:transparent;
+    border: 2px solid white;
+    color: yellow;
+    border-radius: 8px;
+    padding: 5px;
+    border-width: 1px;
+}
+.wcu-section{
+background-color: white;
+
+}
+.wcu-heading{
+    font-family:sans-serif;
+    padding: 10px;
+    margin-bottom: 5px;
+
+}
+.wcu-description{
+    margin-bottom: 5px;
+}
+.wcu-card-section{
+background-color:white;
+border-radius: 16px;
+border:1px solid #e5eaf4;
+text-align: center ;
+
+}
+.card-img{
+    height: 90px;
+    width: 86px;
+    margin-bottom: 6px;
+}
+.card-title{
+    font-family:Arial, Helvetica, sans-serif; 
+}
+.offers{
+    font-weight: 500;
+}
+
+.menu-heading{
+font-size: 28px;
+font-family: sans-serif;
+
+
+}
+.menu-img{
+    border-radius: 16px;
+}
+.menu-img-heading{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 24px;
+    margin-bottom: 5px;
+}
+.menu-link{
+    color: rgb(222, 222, 40);
+}
+.menu-item-card{
+    border-radius: 16px;
+}
+
+
+.health-food-section{
+background-color: white;
+
+}
+.health-img{
+    width:280px;
+    background-color: white;
+}
+
+.delivery-img{
+width: 280px;
+background-color: white;
+
+}
+span{
+    font-size: larger;
+}
+.payment-card-img{
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+
+}
+.thank-heading{
+
+    font-family: sans-serif;
+
+}
+.thank-img{
+    width:330px;
+}
+.thanking-sheet{
+    background-color:#d0b2001a;
+}
+.follow-us{
+    background-color: white;
+    
+}
+.main-head{
+    text-align: center;
+    margin-bottom: 8px
+}
+.follow-us-icon-container{
+    width: 70px;
+    height: 70px;
+    background-color:#d0b2001a;
+    margin-right: 8px;
+    border-radius: 25px;
+    padding-top: 18px;
+    padding-left: 18px;
+}
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
+  .footer-section{
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+  }
+  .food-munch-logo{
+    height: 100px;
+    width: 70px;
+    margin-bottom: 8px;
+    padding-bottom:8px ;
+  }
